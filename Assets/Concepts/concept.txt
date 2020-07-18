@@ -1,0 +1,10 @@
+>>Placed Objects:
+	-ser odbijajacy
+-ser odpychajacy
+	-ser direction
+
+TODO:
+-intro
+-level select
+-menju
+-level transition
